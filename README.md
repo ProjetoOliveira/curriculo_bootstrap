@@ -1,4 +1,4 @@
-https://projetooliveira.github.iocurriculo_bootstrap/
+https://projetooliveira.github.io/curriculo_bootstrap/
 
 ---
 
