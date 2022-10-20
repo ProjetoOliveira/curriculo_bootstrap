@@ -1,4 +1,4 @@
-## Gohub, a theme by ThemeWagon team.
+https://projetooliveira.github.iocurriculo_bootstrap/
 
 ---
 
